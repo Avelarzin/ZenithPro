@@ -30,19 +30,16 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |------|--------|------|
 |Kick Off | 29/08/2025 | concluido|
 |01 | 01/09/2025 | concluido|
-|02|  26/10/2025|  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/> |
+|02|  26/10/2025|  em progresso |
 |03| 23/11/2025 | a fazer|
 |Feira de Soluções|04/12/2025 |a fazer |
 
 > Possíveis status: a fazer, em progresso e concluido
 
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
 # Equipe
 >Colocar aqui uma imagem da equipe com a logo do grupo.
+><img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/c63e4aa9-c82a-44c0-85fe-7e781e04957e" />
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
