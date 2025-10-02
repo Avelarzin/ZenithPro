@@ -36,8 +36,6 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 > Possíveis status: a fazer, em progresso e concluido
 
-# Micro Certificações
-Futuramente
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
