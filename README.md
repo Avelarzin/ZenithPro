@@ -38,6 +38,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # Equipe
 <img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/32da5bb5-e936-4873-8df9-3837e9b71c95" />
+<img width="1196" height="675" alt="image" src="https://github.com/user-attachments/assets/a6126cbf-1be5-4b43-8c23-c2a35e84d193" />
 
 
 
