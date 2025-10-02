@@ -41,13 +41,20 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 <img width="1196" height="675" alt="image" src="https://github.com/user-attachments/assets/a6126cbf-1be5-4b43-8c23-c2a35e84d193" />
 
 
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+Desenvolver um Painel de Análise e Gestão das Exportações Brasileiras, utilizando dados brutos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) referentes ao período de 2020 a 2025. O painel visa fornecer uma visão clara e estratégica do fluxo de exportações brasileiras, permitindo ao Secretário de Comércio Exterior entender quem exporta, o que é exportado, para onde vai e como isso impacta a produção nacional. O projeto apoia a tomada de decisões políticas e estratégicas por meio de análises geográficas, logísticas, sazonais, indicadores gerenciais e relatórios críticos.
+
+Mapear as exportações brasileiras por estado e principais países de destino para identificar mercados estratégicos.
+
+Analisar o desempenho logístico das Unidades da Receita Federal (URF) no processamento das cargas, destacando gargalos e oportunidades de melhoria.
+
+Identificar padrões de sazonalidade e fluxo mensal das exportações de produtos-chave, como soja, carne e café.
+
+Gerar indicadores gerenciais (KPIs), como valor médio por tonelada exportada e participação percentual por estado, para monitoramento contínuo.
+
+Elaborar relatórios críticos com recomendações estratégicas, destacando estados com maior crescimento, produtos essenciais e riscos relacionados à dependência de mercados externos.
 
 # Funcionalidades e Demonstrações das Sprints
 
