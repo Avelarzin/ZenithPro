@@ -30,7 +30,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |------|--------|------|
 |Kick Off | 29/08/2025 | concluido|
 |01 | 01/09/2025 | concluido|
-|02|  26/10/2025| em progresso |
+|02|  26/10/2025|  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/> |
 |03| 23/11/2025 | a fazer|
 |Feira de Soluções|04/12/2025 |a fazer |
 
