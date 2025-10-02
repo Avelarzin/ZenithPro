@@ -46,17 +46,25 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Objetivo do Projeto
 Desenvolver um Painel de Análise e Gestão das Exportações Brasileiras, utilizando dados brutos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) referentes ao período de 2020 a 2025. O painel visa fornecer uma visão clara e estratégica do fluxo de exportações brasileiras, permitindo ao Secretário de Comércio Exterior entender quem exporta, o que é exportado, para onde vai e como isso impacta a produção nacional. O projeto apoia a tomada de decisões políticas e estratégicas por meio de análises geográficas, logísticas, sazonais, indicadores gerenciais e relatórios críticos.
 
-Mapear as exportações brasileiras por estado e principais países de destino para identificar mercados estratégicos.
+*Mapear as exportações brasileiras por estado e principais países de destino para identificar mercados estratégicos.
+*Analisar o desempenho logístico das Unidades da Receita Federal (URF) no processamento das cargas, destacando gargalos e oportunidades de melhoria.
+*Identificar padrões de sazonalidade e fluxo mensal das exportações de produtos-chave, como soja, carne e café.
+*Gerar indicadores gerenciais (KPIs), como valor médio por tonelada exportada e participação percentual por estado, para monitoramento contínuo.
+*Elaborar relatórios críticos com recomendações estratégicas, destacando estados com maior crescimento, produtos essenciais e riscos relacionados à dependência de mercados externos.
 
-Analisar o desempenho logístico das Unidades da Receita Federal (URF) no processamento das cargas, destacando gargalos e oportunidades de melhoria.
+# Funcionalidades
+*Visualização Geográfica das Exportações: Mapa interativo mostrando exportações por estado e principais países de destino.
+*Análise Logística: Monitoramento das Unidades da Receita Federal (URF) responsáveis pelo processamento das cargas, com identificação de possíveis gargalos.
+*Sazonalidade e Fluxo: Gráficos de fluxo mensal das exportações, destacando padrões sazonais para produtos estratégicos como soja, carne e café.
+*Indicadores Gerenciais (KPIs): Cálculo e exibição de métricas como valor médio por tonelada exportada e participação percentual das exportações por estado.
+*Relatório de Análise Crítica: Documento gerencial com insights e recomendações estratégicas baseadas nos dados analisados.
 
-Identificar padrões de sazonalidade e fluxo mensal das exportações de produtos-chave, como soja, carne e café.
-
-Gerar indicadores gerenciais (KPIs), como valor médio por tonelada exportada e participação percentual por estado, para monitoramento contínuo.
-
-Elaborar relatórios críticos com recomendações estratégicas, destacando estados com maior crescimento, produtos essenciais e riscos relacionados à dependência de mercados externos.
-
-# Funcionalidades e Demonstrações das Sprints
+# Demonstrações das Sprints
+*Apresentação dos mapas interativos de exportação por região e destino.
+*Demonstração dos dashboards de logística com análise das URFs.
+*Exibição dos gráficos de sazonalidade e fluxo de produtos estratégicos.
+*Visualização dos KPIs atualizados e seus impactos nas decisões estratégicas.
+*Discussão do relatório gerencial com sugestões para otimização das políticas de exportação.
 
 ## Sprint 1
 >Descrever aqui o que foi entregue na sprint
