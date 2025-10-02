@@ -26,13 +26,13 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint | Previsão | Status| 
-|------|--------|------|--------|
-|Kick Off | 29/08/2025 | concluido|  
-|01 | 01/09/2025 | concluido| 
-|02|  26/10/2025| em progresso |
-|03| 23/11/2025 | a fazer| 
-|Feira de Soluções|04/12/2025 |a fazer |
+Sprint | Previsão | Status| ;
+|------|--------|------|--------|;
+|Kick Off | 29/08/2025 | concluido|  ;
+|01 | 01/09/2025 | concluido| ;
+|02|  26/10/2025| em progresso |;
+|03| 23/11/2025 | a fazer| ;
+|Feira de Soluções|04/12/2025 |a fazer |;
 
 > Possíveis status: a fazer, em progresso e concluido
 
