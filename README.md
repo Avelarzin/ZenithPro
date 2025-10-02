@@ -37,8 +37,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 > Possíveis status: a fazer, em progresso e concluido
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
-><img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/c63e4aa9-c82a-44c0-85fe-7e781e04957e" />
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/32da5bb5-e936-4873-8df9-3837e9b71c95" />
+
 
 
 <p align="center">
