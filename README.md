@@ -61,11 +61,11 @@ Desenvolver um Painel de Análise e Gestão das Exportações Brasileiras, utili
 - Relatório de Análise Crítica: Documento gerencial com insights e recomendações estratégicas baseadas nos dados analisados.
 
 # Demonstrações das Sprints
-*Apresentação dos mapas interativos de exportação por região e destino.
-*Demonstração dos dashboards de logística com análise das URFs.
-*Exibição dos gráficos de sazonalidade e fluxo de produtos estratégicos.
-*Visualização dos KPIs atualizados e seus impactos nas decisões estratégicas.
-*Discussão do relatório gerencial com sugestões para otimização das políticas de exportação.
+- Apresentação dos mapas interativos de exportação por região e destino.
+- Demonstração dos dashboards de logística com análise das URFs.
+- Exibição dos gráficos de sazonalidade e fluxo de produtos estratégicos.
+- Visualização dos KPIs atualizados e seus impactos nas decisões estratégicas.
+- Discussão do relatório gerencial com sugestões para otimização das políticas de exportação.
 
 ## Sprint 1
 >Descrever aqui o que foi entregue na sprint
