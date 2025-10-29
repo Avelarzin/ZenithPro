@@ -69,6 +69,9 @@ Desenvolver um Painel de Análise e Gestão das Exportações Brasileiras, utili
 
 ## Sprint 1 e 2
 
+><img width="867" height="489" alt="Captura de tela 2025-10-29 201644" src="https://github.com/user-attachments/assets/b6340ac6-6762-40c5-9586-179f9058d402" />
+
+
 
 ## Sprint 3
 >Descrever aqui o que foi entregue na sprint
