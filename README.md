@@ -67,41 +67,15 @@ Desenvolver um Painel de Análise e Gestão das Exportações Brasileiras, utili
 - Visualização dos KPIs atualizados e seus impactos nas decisões estratégicas.
 - Discussão do relatório gerencial com sugestões para otimização das políticas de exportação.
 
-## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
->
+## Sprint 1 e 2
 
-
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
-
-## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
-</p>
 
 ## Sprint 3
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
-</p>
 
 
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
