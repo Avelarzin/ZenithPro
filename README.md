@@ -70,7 +70,7 @@ Desenvolver um Painel de Análise e Gestão das Exportações Brasileiras, utili
 ## Sprint 1
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
-[Blue and White Minimalist Logistic Presentation.pdf](https://github.com/user-attachments/files/23221637/Blue.and.White.Minimalist.Logistic.Presentation.pdf)
+>[Blue and White Minimalist Logistic Presentation.pdf](https://github.com/user-attachments/files/23221637/Blue.and.White.Minimalist.Logistic.Presentation.pdf)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
