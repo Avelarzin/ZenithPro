@@ -144,7 +144,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-## Soft Skill
+## Soft Skills (saber tecnológico)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
 -Comunicação
 -Trabalho em equipe
 -Liderança 
