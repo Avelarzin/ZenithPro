@@ -96,11 +96,11 @@ Desenvolver um Painel de Análise e Gestão das Exportações Brasileiras, utili
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Canvas | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| SQL | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Canvas | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Jira | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| PowerBi | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Python | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| PowerBi | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
