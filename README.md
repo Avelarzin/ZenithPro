@@ -143,18 +143,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
 
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-  
->-Comunicação
+# Soft Skill
+-Comunicação
 -Trabalho em equipe
 -Liderança 
 -Criatividade
 -Pensamento critico
+
+# Demonstrações das Sprints
+- Apresentação dos mapas interativos de exportação por região e destino.
+- Demonstração dos dashboards de logística com análise das URFs.
 
 
 | Habilidades | Classificação |
