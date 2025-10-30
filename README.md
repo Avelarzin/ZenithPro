@@ -149,7 +149,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
--Comunicação
+  
+>-Comunicação
 -Trabalho em equipe
 -Liderança 
 -Criatividade
