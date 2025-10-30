@@ -144,7 +144,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-# Soft Skill
+## Soft Skill
 -Comunicação
 -Trabalho em equipe
 -Liderança 
