@@ -126,12 +126,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
 
-# Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
+-Python
+-SQL
+-Jira
+-PowerBi
+-Canvas
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -147,6 +149,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
+-Comunicação
+-Trabalho em equipe
+-Liderança 
+-Criatividade
+-Pensamento critico
+
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
