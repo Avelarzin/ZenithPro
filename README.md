@@ -134,6 +134,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 -Jira
 -PowerBi
 -Canvas
+
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -152,6 +153,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 -Liderança 
 -Criatividade
 -Pensamento critico
+
 
 # Demonstrações das Sprints
 - Apresentação dos mapas interativos de exportação por região e destino.
