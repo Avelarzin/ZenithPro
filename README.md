@@ -129,12 +129,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
--Python
--SQL
--Jira
--PowerBi
--Canvas
-
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -144,21 +138,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+ 
+</details>
 
-## Soft Skills (saber tecnológico)
+## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
--Comunicação
--Trabalho em equipe
--Liderança 
--Criatividade
--Pensamento critico
-
-
-# Demonstrações das Sprints
-- Apresentação dos mapas interativos de exportação por região e destino.
-- Demonstração dos dashboards de logística com análise das URFs.
-
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
@@ -175,7 +160,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| João Avelar | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| Guilherme dos Santos| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Lucas Marques | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| João Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
